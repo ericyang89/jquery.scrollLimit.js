@@ -1,5 +1,5 @@
 # jquery.scrollLimit.js
-a jQuery plugs to prevent parents scroll or touchmove
+a jQuery plugs to prevent parents scroll or touchmove when scroll itself
 
 #How to Use?
 scrollLimit depends on jQuery. Include them both in end of your HTML code:
